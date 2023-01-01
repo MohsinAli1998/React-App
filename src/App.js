@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Mart from './mart.js';
-import Card1 from '/card.js';
+// import Card1 from '/card.js';
 function App() {
   return (
     // <div className="App">
@@ -24,7 +24,8 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <> <Card1/>
+    <> 
+   
       
     <Mart />
     </>
