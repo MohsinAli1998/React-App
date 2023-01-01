@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/React-App/static/css/main.a617e044.chunk.css",
-    "main.js": "/React-App/static/js/main.55135fb5.chunk.js",
-    "main.js.map": "/React-App/static/js/main.55135fb5.chunk.js.map",
-    "runtime-main.js": "/React-App/static/js/runtime-main.03112275.js",
-    "runtime-main.js.map": "/React-App/static/js/runtime-main.03112275.js.map",
-    "static/js/2.73e27951.chunk.js": "/React-App/static/js/2.73e27951.chunk.js",
-    "static/js/2.73e27951.chunk.js.map": "/React-App/static/js/2.73e27951.chunk.js.map",
-    "static/js/3.0cf71e71.chunk.js": "/React-App/static/js/3.0cf71e71.chunk.js",
-    "static/js/3.0cf71e71.chunk.js.map": "/React-App/static/js/3.0cf71e71.chunk.js.map",
+    "main.css": "/React-App/static/css/main.ef3d4bc5.chunk.css",
+    "main.js": "/React-App/static/js/main.3a5a5cc5.chunk.js",
+    "main.js.map": "/React-App/static/js/main.3a5a5cc5.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.097b9025.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.097b9025.js.map",
+    "static/js/2.3611d498.chunk.js": "/React-App/static/js/2.3611d498.chunk.js",
+    "static/js/2.3611d498.chunk.js.map": "/React-App/static/js/2.3611d498.chunk.js.map",
+    "static/js/3.8132ac1b.chunk.js": "/React-App/static/js/3.8132ac1b.chunk.js",
+    "static/js/3.8132ac1b.chunk.js.map": "/React-App/static/js/3.8132ac1b.chunk.js.map",
     "index.html": "/React-App/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/React-App/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.73e27951.chunk.js.LICENSE.txt": "/React-App/static/js/2.73e27951.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React-App/static/media/logo.6ce24c58.svg"
+    "static/css/main.ef3d4bc5.chunk.css.map": "/React-App/static/css/main.ef3d4bc5.chunk.css.map",
+    "static/js/2.3611d498.chunk.js.LICENSE.txt": "/React-App/static/js/2.3611d498.chunk.js.LICENSE.txt",
+    "static/media/8logo.1289fe1a.gif": "/React-App/static/media/8logo.1289fe1a.gif",
+    "static/media/garments.25393f5e.jpg": "/React-App/static/media/garments.25393f5e.jpg",
+    "static/media/logo.6ce24c58.svg": "/React-App/static/media/logo.6ce24c58.svg",
+    "static/media/shoppingbag.5d089bb5.gif": "/React-App/static/media/shoppingbag.5d089bb5.gif",
+    "static/media/shoppingcart.ddb0d571.gif": "/React-App/static/media/shoppingcart.ddb0d571.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.03112275.js",
-    "static/js/2.73e27951.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.55135fb5.chunk.js"
+    "static/js/runtime-main.097b9025.js",
+    "static/js/2.3611d498.chunk.js",
+    "static/css/main.ef3d4bc5.chunk.css",
+    "static/js/main.3a5a5cc5.chunk.js"
   ]
 }
